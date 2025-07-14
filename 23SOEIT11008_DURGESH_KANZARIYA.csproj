@@ -45,6 +45,29 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_1.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_10.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_11.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_12.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_13.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_14.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_15.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_16.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_17.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_18.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_19.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_2.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_20.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_21.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_22.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_23.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_3.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_4.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_5.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_6.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_7.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_8.cs" />
+    <Compile Include="Tutorials\Tutorial 1\Question_9.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
