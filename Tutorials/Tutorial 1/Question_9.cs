@@ -12,7 +12,20 @@ namespace _23SOEIT11008_DURGESH_KANZARIYA.Tutorials.Tutorial_1
         {
             Console.Write("INPUT:");
             string str = Console.ReadLine();
-            Console.WriteLine($"OUTPUT: {str.}");
+            Console.WriteLine(str);
+            String outString = "";
+            foreach(char character in str)
+            {
+                if (char.IsUpper(character))
+                {
+                    outString += char.ToLower(character);
+                }
+                else
+                {
+                    outString += char.ToUpper(character);
+                }
+            }
+            Console.Write($"{outString}");
         }
     }
 }
