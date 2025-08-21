@@ -68,6 +68,9 @@
     <Compile Include="Tutorials\Tutorial 1\Question_7.cs" />
     <Compile Include="Tutorials\Tutorial 1\Question_8.cs" />
     <Compile Include="Tutorials\Tutorial 1\Question_9.cs" />
+    <Compile Include="Tutorials\Tutorial 2\Question_1.cs" />
+    <Compile Include="Tutorials\Tutorial 2\Question_2.cs" />
+    <Compile Include="Tutorials\Tutorial 2\Question_3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
